@@ -106,7 +106,7 @@
 		"outerColor": [204,204,0],
 		"innerColor": [255,255,204],
 		"uniqueName": "Saint Justina Council",
-		"uniques": ["[+25]% Faith [in all cities]", "May buy [{Military} {non-air}] units with [Faith] for [2] times their normal Production cost"],
+		"uniques": ["[+25]% Faith [in all cities]", "May buy [{Military} {non-air}] units with [Faith] for [2] times their normal Production cost", "Free [Great Prophet] appears <upon constructing [Shrine]>"],
 		"cities": ["Trinity Plaza Area","Trinity District 1","Trinity District 2","Trinity District 3","Trinity District 4","Trinity District 5","Trinity District 6","Trinity District 7","Trinity District 8",
 			"Trinity District 9","Trinity District 10","Trinity District 11","Trinity District 12","Trinity District 13","Trinity District 14","Trinity District 15","Trinity District 16","Trinity District 17","Trinity District 18",
 			"Trinity District 19","Trinity District 20","Trinity District 21","Trinity District 22","Trinity District 23","Trinity District 24","Trinity District 25","Trinity District 26","Trinity District 27","Trinity District 28",
