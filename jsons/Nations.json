@@ -377,5 +377,42 @@
 			"Arius Autonomous District 9","Arius Autonomous District 10","Arius Autonomous District 11","Arius Autonomous District 12","Arius Autonomous District 13","Arius Autonomous District 14","Arius Autonomous District 15","Arius Autonomous District 16","Arius Autonomous District 17","Arius Autonomous District 18",
 			"Arius Autonomous District 19","Arius Autonomous District 20","Arius Autonomous District 21","Arius Autonomous District 22","Arius Autonomous District 23","Arius Autonomous District 24","Arius Autonomous District 25","Arius Autonomous District 26","Arius Autonomous District 27","Arius Autonomous District 28",
 			"Arius Autonomous District 29","Arius Autonomous District 30","Arius Autonomous District 31","Arius Autonomous District 32","Arius Autonomous District 33","Arius Autonomous District 34"]
+	},
+	{
+		"name": "Kronos School of Journalism",
+		"leaderName": "Shinon",
+		"adjective": ["Kronos"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "HEY HEY EVERYONE! Today we're participating in the Kivotos Civilizations Simulation Games!",
+		"startIntroPart2": "I'm your host Shion and we will show you some great scoop for this game.",
+		
+		"declaringWar": "Go get the camera!",
+		"attacked": "Hohoho! Things have gotten interesting!",
+		"defeated": "Ehe at least we managed to film that live.",
+		"introduction": "Coming in live! Here we have a participant for the Kivotos Civilizations Simulation Games! What would you like to say to our dear audience?",
+		
+		"neutralHello": "Heyo!",
+		"neutralLetsHearIt": ["Ooooo","What is it? What is it?","Alright let's hear ya!"],
+		"neutralNo": ["We may not have the budget for that...","Eh, that is not an interesting scoop.","That's boring."],
+		"neutralYes": ["Hoho! This is gonna be one big scoop!","Yes! Yes! Yes!","Alrighty then!"],
+
+		"hateHello": "Kyaa! What do you want!?",
+		"hateLetsHearIt": ["We may be scared but this could be interesting.","Ughhh... Okay?","This does sound news worthy."],
+		"hateNo": ["We would kindly refuse such an offer!","I hope we got that on camera because we refuse.","No! No! No!"],
+		"hateYes": ["Such a spicy deal... We can sell this.","I guess we cam settle with this.","T-th-thank you for your patronage!"],
+		
+		"afterPeace": "Back to boring old peaceful news stories...",
+		"tradeRequest": "We would love to request something from you. We will pay you with influence!",
+
+		"outerColor": [0,139,139],
+		"innerColor": [255,213,128],
+		"uniqueName": "Kronos Live Broadcast",
+		"uniques": ["Reveals the entire map <upon discovering [Agriculture]>"],
+		"cities": ["Kronos Main Building","Kronos District 1","Kronos District 2","Kronos District 3","Kronos District 4","Kronos District 5","Kronos District 6","Kronos District 7","Kronos District 8",
+			"Kronos District 9","Kronos District 10","Kronos District 11","Kronos District 12","Kronos District 13","Kronos District 14","Kronos District 15","Kronos District 16","Kronos District 17","Kronos District 18",
+			"Kronos District 19","Kronos District 20","Kronos District 21","Kronos District 22","Kronos District 23","Kronos District 24","Kronos District 25","Kronos District 26","Kronos District 27","Kronos District 28",
+			"Kronos District 29","Kronos District 30","Kronos District 31","Kronos District 32","Kronos District 33","Kronos District 34"]
 	}
 ]
