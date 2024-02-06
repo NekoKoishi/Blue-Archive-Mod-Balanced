@@ -406,8 +406,8 @@
 		"afterPeace": "Back to boring old peaceful news stories...",
 		"tradeRequest": "We would love to request something from you. We will pay you with influence!",
 
-		"outerColor": [0,139,139],
-		"innerColor": [255,213,128],
+		"outerColor": [0,132,132],
+		"innerColor": [255,215,134],
 		"uniqueName": "Kronos Live Broadcast",
 		"uniques": ["Reveals the entire map <upon discovering [Agriculture]>"],
 		"cities": ["Kronos Main Building","Kronos District 1","Kronos District 2","Kronos District 3","Kronos District 4","Kronos District 5","Kronos District 6","Kronos District 7","Kronos District 8",
