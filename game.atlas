@@ -32,44 +32,51 @@ NationIcons/Hyakkiyako Alliance Academy
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Millennium Science School
+NationIcons/Kronos School of Journalism
   rotate: false
   xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Red Winter Federal Academy
+NationIcons/Millennium Science School
   rotate: false
   xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/SRT Special Academy
+NationIcons/Red Winter Federal Academy
   rotate: false
   xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Shanhaijing Senior Secondary School
+NationIcons/SRT Special Academy
   rotate: false
   xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Trinity General School
+NationIcons/Shanhaijing Senior Secondary School
   rotate: false
   xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Valkyrie Police Academy
+NationIcons/Trinity General School
   rotate: false
   xy: 976, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Valkyrie Police Academy
+  rotate: false
+  xy: 1084, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
