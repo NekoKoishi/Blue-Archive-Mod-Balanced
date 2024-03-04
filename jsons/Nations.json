@@ -144,7 +144,7 @@
 		"outerColor": [0,204,204],
 		"innerColor": [0,102,102],
 		"uniqueName": "Foreclosure Task Force",
-		"uniques": ["[+75]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+50]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[+2 Gold, +1 Production] from [Desert] tiles [in all cities]"],
 		"cities": ["Abydos Main Building","Abydos District 1","Abydos District 2","Abydos District 3","Abydos District 4","Abydos District 5","Abydos District 6","Abydos District 7","Abydos District 8",
 			"Abydos District 9","Abydos District 10","Abydos District 11","Abydos District 12","Abydos District 13","Abydos District 14","Abydos District 15","Abydos District 16","Abydos District 17","Abydos District 18",
 			"Abydos District 19","Abydos District 20","Abydos District 21","Abydos District 22","Abydos District 23","Abydos District 24","Abydos District 25","Abydos District 26","Abydos District 27","Abydos District 28",
