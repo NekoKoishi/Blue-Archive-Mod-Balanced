@@ -30,7 +30,7 @@
 		"outerColor": [255,51,51],
 		"innerColor": [1,1,1],
 		"uniqueName": "Chaos and Freedom!",
-		"uniques": ["[+25]% [Production] [in all cities]","[-25]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+20]% [Production] [in all cities]","[-25]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["Gehenna Main School District","Gehenna District 1","Gehenna District 2","Gehenna District 3","Gehenna District 4","Gehenna District 5","Gehenna District 6","Gehenna District 7","Gehenna District 8",
 			"Gehenna District 9","Gehenna District 10","Gehenna District 11","Gehenna District 12","Gehenna District 13","Gehenna District 14","Gehenna District 15","Gehenna District 16","Gehenna District 17","Gehenna District 18",
 			"Gehenna District 19","Gehenna District 20","Gehenna District 21","Gehenna District 22","Gehenna District 23","Gehenna District 24","Gehenna District 25","Gehenna District 26","Gehenna District 27","Gehenna District 28",
