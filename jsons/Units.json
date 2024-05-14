@@ -1,17 +1,12 @@
 [
 	{
-		"name": "...",
-		"unitType": "Ranged",
-		"uniqueTo": "...",
-		"replaces": "Machine Gun",
+		"name": "Cop",
+		"unitType": "Sword",
+		"uniqueTo": "Valkyrie Police Academy",
+		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"strength": 5,
+		"cost": 5,
+		"attackSound": "shot"
+	},
 ]
