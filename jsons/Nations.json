@@ -182,7 +182,7 @@
 		"outerColor": [255,153,255],
 		"innerColor": [153,0,153],
 		"uniqueName": "Ying-yang Club",
-		"uniques": ["[+25]% [Culture] [in all cities]", "[-25]% Unhappiness from [Population] [in all cities]", "[Great Artist] is earned [50]% faster"],
+		"uniques": ["[+2 Culture, +1 Production] from all [Culture] buildings", "[-25]% Unhappiness from [Population] [in all cities]", "[Great Artist] is earned [50]% faster"],
 		"cities": ["Hyakkiyako Campus","Hyakkiyako District 1","Hyakkiyako District 2","Hyakkiyako District 3","Hyakkiyako District 4","Hyakkiyako District 5","Hyakkiyako District 6","Hyakkiyako District 7","Hyakkiyako District 8",
 			"Hyakkiyako District 9","Hyakkiyako District 10","Hyakkiyako District 11","Hyakkiyako District 12","Hyakkiyako District 13","Hyakkiyako District 14","Hyakkiyako District 15","Hyakkiyako District 16","Hyakkiyako District 17","Hyakkiyako District 18",
 			"Hyakkiyako District 19","Hyakkiyako District 20","Hyakkiyako District 21","Hyakkiyako District 22","Hyakkiyako District 23","Hyakkiyako District 24","Hyakkiyako District 25","Hyakkiyako District 26","Hyakkiyako District 27","Hyakkiyako District 28",
