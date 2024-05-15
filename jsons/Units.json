@@ -5,7 +5,7 @@
 		"uniqueTo": "Valkyrie Police Academy",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 5,
+		"strength": 8,
 		"cost": 5,
 		"attackSound": "shot"
 	},
