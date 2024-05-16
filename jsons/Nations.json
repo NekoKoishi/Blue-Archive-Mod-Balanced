@@ -68,7 +68,7 @@
 		"outerColor": [45,137,229],
 		"innerColor": [163,255,255],
 		"uniqueName": "Millennium Prize",
-		"uniques": ["[Great Scientist] is earned [50]% faster", "[+2 Science, +1 Production] from all [Science] buildings"],
+		"uniques": ["[Great Scientist] is earned [50]% faster", "[+1 Science, +1 Production] from all [Science] buildings"],
 		"cities": ["Millennium Study Center","Millennium District 1","Millennium District 2","Millennium District 3","Millennium District 4","Millennium District 5","Millennium District 6","Millennium District 7","Millennium District 8",
 			"Millennium District 9","Millennium District 10","Millennium District 11","Millennium District 12","Millennium District 13","Millennium District 14","Millennium District 15","Millennium District 16","Millennium District 17","Millennium District 18",
 			"Millennium District 19","Millennium District 20","Millennium District 21","Millennium District 22","Millennium District 23","Millennium District 24","Millennium District 25","Millennium District 26","Millennium District 27","Millennium District 28",
