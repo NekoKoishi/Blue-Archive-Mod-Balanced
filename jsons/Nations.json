@@ -369,8 +369,8 @@
 		"afterPeace": "Guess we are back to hiding in the shadows..",
 		"tradeRequest": "I supposed we would require assistance from you.",
 
-		"outerColor": [7,7,37],
-		"innerColor": [63,63,255],
+		"outerColor": [63,63,255],
+		"innerColor": [7,7,37],
 		"uniqueName": "Vanitas Vanitatum, Et Omnia Vanitas",
 		"uniques": ["[+50]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+25]% Strength <for [Wounded] units>"],
 		"cities": ["Arius Main Building","Arius Autonomous District 1","Arius Autonomous District 2","Arius Autonomous District 3","Arius Autonomous District 4","Arius Autonomous District 5","Arius Autonomous District 6","Arius Autonomous District 7","Arius Autonomous District 8",
@@ -414,5 +414,42 @@
 			"Kronos District 9","Kronos District 10","Kronos District 11","Kronos District 12","Kronos District 13","Kronos District 14","Kronos District 15","Kronos District 16","Kronos District 17","Kronos District 18",
 			"Kronos District 19","Kronos District 20","Kronos District 21","Kronos District 22","Kronos District 23","Kronos District 24","Kronos District 25","Kronos District 26","Kronos District 27","Kronos District 28",
 			"Kronos District 29","Kronos District 30","Kronos District 31","Kronos District 32","Kronos District 33","Kronos District 34"]
-	}
+	},
+	{
+		"name": "Highlander Railroad Academy",
+		"leaderName": "Asagiri Suou",
+		"adjective": ["highlander"],
+		"startBias": ["plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Hikari! Nozomi! At your service!",
+		"startIntroPart2": "Let's do this.",
+		
+		"declaringWar": "It appears to be that you need to pay for our services.",
+		"attacked": "If your plan is to attack us, then you better be prepared for what's about to come.",
+		"defeated": "Didn't expect for such a loss.",
+		"introduction": "If you have any questions, please have them prepared beforehand.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Let's see.","Is there anything you need?.","What would you like to discuss?."],
+		"neutralNo": ["I would like to object to this.","No.","As this request is far from our service, I would humbly decline such a request.."],
+		"neutralYes": ["Great.","Sure.","Let's work together."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["...","What?","Let's see."],
+		"hateNo": ["I would absolutely refuse such an offer.","As the head of the Highlander Railroad Academy, I would like to refuse such an offer.","No!"],
+		"hateYes": ["Fine."," Good enough.","Very well..."],
+		
+		"afterPeace": "We can finally get back to our service.",
+		"tradeRequest": "We would like to arrange a request.",
+
+		"outerColor": [250,250,250],
+		"innerColor": [170,136,1],
+		"uniqueName": "Railway Service!",
+		"uniques": ["[-50]% maintenance on road & railroads", "Improves movement speed on roads"],
+		"cities": ["Highlander Railroad Main Academy District", "Highlander District 1","Highlander District 2","Highlander District 3","Highlander District 4","Highlander District 5","Highlander District 6","Highlander District 7","Highlander District 8",
+			"Highlander District 9","Highlander District 10","Highlander District 11","Highlander District 12","Highlander District 13","Highlander District 14","Highlander District 15","Highlander District 16","Highlander District 17","Highlander District 18",
+			"Highlander District 19","Highlander District 20","Highlander District 21","Highlander District 22","Highlander District 23","Highlander District 24","Highlander District 25","Highlander District 26","Highlander District 27","Highlander District 28",
+			"Highlander District 29","Highlander District 30","Highlander District 31","Highlander District 32","Highlander District 33","Highlander District 34"]
+	},
 ]
