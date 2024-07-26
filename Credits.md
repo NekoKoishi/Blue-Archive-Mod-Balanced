@@ -1,0 +1,13 @@
+**Credits for the illustrations used in Leader Portraits (Links to the source of the artworks)**
+- Hanuma Makoto: [moja (moja4192)](https://www.pixiv.net/en/artworks/115874929)
+- Tsukatsuki Rio: [𝓙𝓱](https://www.pixiv.net/en/artworks/120118923)
+- Kirifuji Nagisa: [zhibuji loom](https://x.com/Zhibujiloom/status/1778711907559440433)
+- Takanashi Hoshino: [murase48](https://x.com/usluvvv_48/status/1816505058932236337)
+- Amachi Niya: [bureoeve](https://www.pixiv.net/en/artworks/98436175)
+- Ryuuge Kisaki: [kiroshi](https://www.pixiv.net/en/artworks/113273332)
+- Renkawa Cherino: [ひやしとーふ](https://x.com/1CQRuhal7pLKJhw/status/1717738639189328278)
+- Ogata Kanna: [wako572330](https://x.com/wako572330/status/1743607893080023160)
+- Tsukiyuki Miyako: [chamu (chammkue)](https://www.pixiv.net/en/artworks/98604274)
+- Joumae Saori: [mark jin](https://x.com/MARJIErs_K/status/1636676235932889088)
+- Kawaru Shinon: [ポップキュン](Official Art)
+- Asagiri Suou: [matsumoto tomoyohi](https://x.com/M_tomoyohi/status/1804259974740349223)

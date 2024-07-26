@@ -1,103 +1,187 @@
 
 game.png
-size: 2048, 128
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+LeaderIcons/Amachi Niya
+  rotate: false
+  xy: 4, 736
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Asagiri Suou
+  rotate: false
+  xy: 4, 478
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hanuma Makoto
+  rotate: false
+  xy: 262, 736
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Joumae Saori
+  rotate: false
+  xy: 4, 220
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Kawaru Shinon
+  rotate: false
+  xy: 262, 478
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Kirifuji Nagisa
+  rotate: false
+  xy: 520, 736
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ogata Kanna
+  rotate: false
+  xy: 262, 220
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Renkawa Cherino
+  rotate: false
+  xy: 520, 478
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ryuuge Kisaki
+  rotate: false
+  xy: 778, 736
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Takanashi Hoshino
+  rotate: false
+  xy: 520, 220
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Tsukatsuki Rio
+  rotate: false
+  xy: 778, 478
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Tsukiyuki Miyako
+  rotate: false
+  xy: 1036, 736
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
 NationIcons/Abydos High School
   rotate: false
-  xy: 4, 4
+  xy: 4, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Arius Branch School
   rotate: false
-  xy: 112, 4
+  xy: 778, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gehenna Academy
   rotate: false
-  xy: 328, 4
+  xy: 1294, 886
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Highlander Railroad Academy
   rotate: false
-  xy: 436, 4
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hyakkiyako Alliance Academy
   rotate: false
-  xy: 544, 4
+  xy: 112, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kronos School of Journalism
   rotate: false
-  xy: 652, 4
+  xy: 778, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Millennium Science School
   rotate: false
-  xy: 760, 4
+  xy: 886, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Red Winter Federal Academy
   rotate: false
-  xy: 868, 4
+  xy: 1036, 520
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/SRT Special Academy
   rotate: false
-  xy: 976, 4
+  xy: 1144, 628
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Shanhaijing Senior Secondary School
   rotate: false
-  xy: 1084, 4
+  xy: 1294, 778
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Trinity General School
   rotate: false
-  xy: 1192, 4
+  xy: 1402, 886
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Valkyrie Police Academy
   rotate: false
-  xy: 1300, 4
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cop
   rotate: false
-  xy: 1408, 72
+  xy: 220, 180
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 UnitIcons/Cop
   rotate: false
-  xy: 220, 4
+  xy: 1036, 628
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

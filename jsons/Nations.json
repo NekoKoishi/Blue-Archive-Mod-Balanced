@@ -229,7 +229,7 @@
 	
 	{
 		"name": "Red Winter Federal Academy",
-		"leaderName": "Cherino",
+		"leaderName": "Renkawa Cherino",
 		"adjective": ["red winter"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
@@ -267,7 +267,7 @@
 	
 	{
 		"name": "Valkyrie Police Academy",
-		"leaderName": "Kana",
+		"leaderName": "Ogata Kanna",
 		"adjective": ["valkyrie"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Diplomatic",
@@ -305,7 +305,7 @@
 	
 	{
 		"name": "SRT Special Academy",
-		"leaderName": "Miyako",
+		"leaderName": "Tsukiyuki Miyako",
 		"adjective": ["SRT"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
@@ -343,7 +343,7 @@
 	
 	{
 		"name": "Arius Branch School",
-		"leaderName": "Saori",
+		"leaderName": "Joumae Saori",
 		"adjective": ["arius"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
@@ -380,7 +380,7 @@
 	},
 	{
 		"name": "Kronos School of Journalism",
-		"leaderName": "Shinon",
+		"leaderName": "Kawaru Shinon",
 		"adjective": ["Kronos"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
