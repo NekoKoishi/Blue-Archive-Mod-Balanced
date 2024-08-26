@@ -442,11 +442,11 @@
 		
 		"afterPeace": "We can finally get back to our service.",
 		"tradeRequest": "We would like to arrange a request.",
-
+"
 		"outerColor": [250,250,250],
 		"innerColor": [170,136,1],
 		"uniqueName": "Railway Service!",
-		"uniques": ["[-50]% maintenance on road & railroads", "Improves movement speed on roads, [+4 Production] from each Trade Route"],
+		"uniques": ["[-50]% maintenance on road & railroads", "Improves movement speed on roads", "[+4 Production] from each Trade Route"],
 		"cities": ["Highlander Railroad Main Academy", "Highlander District 1","Highlander District 2","Highlander District 3","Highlander District 4","Highlander District 5","Highlander District 6","Highlander District 7","Highlander District 8",
 			"Highlander District 9","Highlander District 10","Highlander District 11","Highlander District 12","Highlander District 13","Highlander District 14","Highlander District 15","Highlander District 16","Highlander District 17","Highlander District 18",
 			"Highlander District 19","Highlander District 20","Highlander District 21","Highlander District 22","Highlander District 23","Highlander District 24","Highlander District 25","Highlander District 26","Highlander District 27","Highlander District 28",
