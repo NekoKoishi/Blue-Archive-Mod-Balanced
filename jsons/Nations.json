@@ -296,7 +296,7 @@
 		"outerColor": [0,0,204],
 		"innerColor": [153,153,255],
 		"uniqueName": "Valkyrie Police Service",
-		"uniques": ["[-75]% maintenance costs <for [All] units>", "[25]% Food is carried over after population increases [in all cities]"],
+		"uniques": ["[-75]% maintenance costs <for [All] units>", "[15]% Food is carried over after population increases [in all cities]"],
 		"cities": ["Valkyrie Headquarters","Valkyrie Protected District 1","Valkyrie Protected District 2","Valkyrie Protected District 3","Valkyrie Protected District 4","Valkyrie Protected District 5","Valkyrie Protected District 6","Valkyrie Protected District 7","Valkyrie Protected District 8",
 			"Valkyrie Protected District 9","Valkyrie Protected District 10","Valkyrie Protected District 11","Valkyrie Protected District 12","Valkyrie Protected District 13","Valkyrie Protected District 14","Valkyrie Protected District 15","Valkyrie Protected District 16","Valkyrie Protected District 17","Valkyrie Protected District 18",
 			"Valkyrie Protected District 19","Valkyrie Protected District 20","Valkyrie ProtectedDistrict 21","Valkyrie Protected District 22","Valkyrie Protected District 23","Valkyrie Protected District 24","Valkyrie Protected District 25","Valkyrie Protected District 26","Valkyrie Protected District 27","Valkyrie Protected District 28",
