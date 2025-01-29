@@ -117,7 +117,7 @@
 		"name": "Abydos High School",
 		"leaderName": "Takanashi Hoshino",
 		"adjective": ["abydos"],
-		"startBias": ["Desert"],
+		"startBias": ["Desert", "Oasis"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Hyoo! My name's Hoshino from the Foreclosure Task Force.",
@@ -143,8 +143,8 @@
 
 		"outerColor": [0,204,204],
 		"innerColor": [0,102,102],
-		"uniqueName": "Foreclosure Task Force",
-		"uniques": ["[+50]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "[+2 Gold, +1 Production] from every [Desert]"],
+		"uniqueName": "Foreclusive Measures",
+		"uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", "All newly-trained [{Military} {Land}] units [in all cities] receive the [Cover I] promotion", "[+1 Gold, +1 Culture] from every [Oasis]", "[+3 Science, -1 Gold] from every [Desert] <starting from the [Industrial era]>", "[+2 Science, -2 Gold] from every [Desert] <starting from the [Modern era]>", "[+1 Science, -3 Gold] from every [Desert] <starting from the [Atomic era]>"],
 		"cities": ["Abydos Main Building","Abydos District 1","Abydos District 2","Abydos District 3","Abydos District 4","Abydos District 5","Abydos District 6","Abydos District 7","Abydos District 8",
 			"Abydos District 9","Abydos District 10","Abydos District 11","Abydos District 12","Abydos District 13","Abydos District 14","Abydos District 15","Abydos District 16","Abydos District 17","Abydos District 18",
 			"Abydos District 19","Abydos District 20","Abydos District 21","Abydos District 22","Abydos District 23","Abydos District 24","Abydos District 25","Abydos District 26","Abydos District 27","Abydos District 28",
